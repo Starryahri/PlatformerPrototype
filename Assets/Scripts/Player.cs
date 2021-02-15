@@ -4,10 +4,11 @@ using UnityEngine;
 
 public class Player : MonoBehaviour
 {
+    private CharacterController _controller;
     // Start is called before the first frame update
     void Start()
     {
-        adfas
+        
     }
 
     // Update is called once per frame
