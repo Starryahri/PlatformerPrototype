@@ -181,3 +181,38 @@ Received Import Request.
 Start importing Assets/Scenes/Game.unity using Guid(779a73051f3e4454398d0023c3e67cb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43461e5595fcc01f1cc08f4446aeb37b') in 0.009028 seconds
   Import took 0.010957 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 159.053912 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(178d0dbc8de424aa294314475dbd358f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(178d0dbc8de424aa294314475dbd358f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3ebb44e1e36358287a7c5523244d055') in 0.001915 seconds
+  Import took 0.004172 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000556 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for Lumin target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.21 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.992 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.24 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1095 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 128.8 MB.
+System memory in use after: 128.9 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1554.
+Total: 2.115784 ms (FindLiveObjects: 0.132005 ms CreateObjectMapping: 0.033728 ms MarkObjects: 1.895242 ms  DeleteObjects: 0.053839 ms)
+
